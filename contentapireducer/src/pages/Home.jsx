@@ -1,5 +1,5 @@
 import Component1 from "../Components/Component1";
-import Component2 from "../Components/Component2";
+import Component2 from "../Components/Components2";
 
 
 
